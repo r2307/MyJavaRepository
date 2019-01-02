@@ -1,15 +1,15 @@
 class HelloWorld{
 
+
 	static void welcomeMethod(){
-
-
-				
-		System.out.println("HelloWorld....!!");
+			
+		System.out.println("HelloWorld....!!!!!");
 		
 }
 
 
 	public static void main(String args[]){
+
 
 		welcomeMethod();
 
